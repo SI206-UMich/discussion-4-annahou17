@@ -4,7 +4,7 @@ class Rectangle():
     # 
     # It sets an instance variable, "width" to the passed argument, width
     # It sets an instance variable, "height" to the passed argument, height
-
+    # test test test
     def __init__ (self, width, height):
         self.width = width
         self.height = height
@@ -44,8 +44,6 @@ class Rectangle():
             return "Invalid input"
         
     
-
-
 
 
     # Create the "perimeter" method
